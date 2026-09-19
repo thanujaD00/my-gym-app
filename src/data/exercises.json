@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "title": "My Workout Plan",
+  "defaultRestBetweenSets": 60,
+  "defaultRestBetweenExercises": 90,
+  "exercises": [
+    {
+      "id": "squat",
+      "name": "Squat",
+      "muscle": "Legs",
+      "sets": 4,
+      "reps": 10,
+      "restBetweenSets": 90,
+      "restBetweenExercises": 120,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "id": "calf-raises",
+      "name": "Calf Raises",
+      "muscle": "Calves",
+      "sets": 3,
+      "reps": 15,
+      "restBetweenSets": 45,
+      "restBetweenExercises": 90,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "id": "bench-press",
+      "name": "Bench Press",
+      "muscle": "Chest",
+      "sets": 4,
+      "reps": 10,
+      "restBetweenSets": 90,
+      "restBetweenExercises": 120,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        30,
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "id": "dumbbell-pullover",
+      "name": "Dumbbell Pullover",
+      "muscle": "Chest / Back",
+      "sets": 3,
+      "reps": 12,
+      "restBetweenSets": 60,
+      "restBetweenExercises": 90,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        12,
+        12,
+        12
+      ]
+    },
+    {
+      "id": "barbell-row",
+      "name": "Barbell Row",
+      "muscle": "Back",
+      "sets": 4,
+      "reps": 10,
+      "restBetweenSets": 75,
+      "restBetweenExercises": 120,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        25,
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "id": "shoulder-front",
+      "name": "Shoulder Front",
+      "muscle": "Front Delts",
+      "sets": 3,
+      "reps": 12,
+      "restBetweenSets": 60,
+      "restBetweenExercises": 90,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "id": "shoulder-back",
+      "name": "Shoulder Back",
+      "muscle": "Rear Delts",
+      "sets": 3,
+      "reps": 12,
+      "restBetweenSets": 60,
+      "restBetweenExercises": 90,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "id": "upright-row",
+      "name": "Upright Row",
+      "muscle": "Shoulders / Traps",
+      "sets": 3,
+      "reps": 12,
+      "restBetweenSets": 60,
+      "restBetweenExercises": 90,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        15,
+        15,
+        15
+      ]
+    },
+    {
+      "id": "biceps-curl",
+      "name": "Biceps Curl",
+      "muscle": "Biceps",
+      "sets": 3,
+      "reps": 12,
+      "restBetweenSets": 60,
+      "restBetweenExercises": 90,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        12,
+        12,
+        12
+      ]
+    },
+    {
+      "id": "triceps",
+      "name": "Triceps",
+      "muscle": "Triceps",
+      "sets": 3,
+      "reps": 12,
+      "restBetweenSets": 60,
+      "restBetweenExercises": 90,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        12,
+        12,
+        12
+      ]
+    },
+    {
+      "id": "forearms",
+      "name": "Forearms",
+      "muscle": "Forearms",
+      "sets": 3,
+      "reps": 15,
+      "restBetweenSets": 45,
+      "restBetweenExercises": 60,
+      "unit": "kg",
+      "notes": "",
+      "weights": [
+        10,
+        10,
+        10
+      ]
+    }
+  ]
+}
